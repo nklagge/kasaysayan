@@ -16,12 +16,12 @@
       {{ end }}
       {{ if and (.Site.Params.showProjects)  (ne .Page.Section "projects")  }}
       <span class="nav-item">
-        <a href="{{ "/projects" | relURL }}">Projects</a>
+        <a href="{{ "/projects" | relURL }}">Gallery</a>
       </span>
       {{ end }}
       {{ if and (.Site.Params.showBlog)  (ne .Page.Section "blog")  }}
       <span class="nav-item">
-        <a href="{{ "/blog" | relURL }}">Blog</a>
+        <a href="{{ "/blog" | relURL }}">Updates</a>
       </span>
       {{ end }}
       {{ if (.Site.GetPage "page" "contact") }}

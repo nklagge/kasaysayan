@@ -26,9 +26,9 @@
       {{ if .Site.Params.showBlog }}
       <span class="nav-item">
         {{ if ne .Section "blog" }}
-        <a href="{{ "/blog" | relURL }}">Blog</a>
+        <a href="{{ "/blog" | relURL }}">Updates</a>
         {{ else }}
-        <a href="{{ "/blog" | relURL }}">Back to Blog</a>
+        <a href="{{ "/blog" | relURL }}">Back to Updates</a>
         {{ end }}
       </span>
       {{ end }}

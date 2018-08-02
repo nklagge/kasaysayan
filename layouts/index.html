@@ -36,7 +36,7 @@
         <a class="nav-item" href="#projects">Gallery</a>
         {{ end }}
         {{ if .Site.Params.showBlog }}
-        <a class="nav-item" href="#blog">Blog</a>
+        <a class="nav-item" href="#updates">Updates</a>
         {{ end }}
         {{ if (.Site.GetPage "page" "contact") }}
         <a class="nav-item" href="#contact">Contact</a>
@@ -90,7 +90,7 @@
 
 <!-- Let's show some blog posts -->
     {{ if .Site.Params.showBlog }}
-    <div class="section" id="blog">
+    <div class="section" id="updates">
         {{ partial "blogsection.html" . }}
     </div><!-- End Blog section -->
 

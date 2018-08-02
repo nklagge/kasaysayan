@@ -7,7 +7,9 @@ date: 2017-03-09T13:19:25+08:00
 
 The baptism, marriage, and burial records date back to the parish's founding in 1767. We believe they are among the few surviving sets of Filipino parish records of that age. They are collected in bound volumes and are stored in a wooden cabinet in the church, but have not received any other conservation treatment over the centuries. Many of the volumes have already begun to deteriorate and are in need of immediate care and attention. If no intervention is done in time, these invaluable historical and cultural records will be irretrievably lost to future generations.
 
-**Kasaysayan ng San Jose** is looking to bring together funding and conservation expertise to preserve this unique and irreplaceable piece of Filipino history. Our objectives are to:
+In our desire to preserve these records, we requested the assistance of the Philippine National Commission on Culture and the Arts (NCCA) in early 2018. In April 2018, an expert from the NCCA conducted a physical assessment of the San Jose archival records and subsequently issued a Technical Report describing the condition of the books and recommending specific courses of action. A summary description of the NCCA Technical Report is set out on the page "Present Condition and Recommendations."
+
+**Kasaysayan ng San Jose** is looking to bring together funding and conservation expertise, and adopt the recommendations of the NCCA to preserve this unique and irreplaceable piece of Filipino history. Our objectives are to:
 
 - Secure conservation treatment for eight volumes in need of immediate attention;
 - Fund a modern on-site storage system that would protect the volumes from further degradation and from risks such as fire and moisture; and

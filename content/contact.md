@@ -24,6 +24,6 @@ Provincial Superior
 Oblates of St. Joseph
 
 *Member*  
-Ms. Cecille Torrevillas-Gelicarme  
+Ms. Cecille Torrevillas-Gelicame  
 Director, Museo De La Salle  
 De La Salle University - Dasmarinas
