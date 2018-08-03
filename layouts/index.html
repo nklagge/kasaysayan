@@ -38,6 +38,11 @@
         {{ if .Site.Params.showBlog }}
         <a class="nav-item" href="#updates">Updates</a>
         {{ end }}
+        <!-- CUSTOM SINGLE PAGE -->
+        {{ if (.Site.GetPage "page" "board") }}
+        <a class="nav-item" href="#board">BOARD</a>
+        {{ end }}
+        <!-- END CUSTOM SINGLE PAGE -->
         {{ if (.Site.GetPage "page" "contact") }}
         <a class="nav-item" href="#contact">Contact</a>
         {{ end }}
@@ -96,6 +101,23 @@
 
     <div class="container"><hr></div>
     {{ end }}
+
+<!-- CUSTOM PAGE -->
+{{ if (.Site.GetPage "page" "board") }}
+<div class="section" id="board">
+    <div class="container has-text-centered">
+    <h2 class="title is-2">Board of Advisers</h2>
+        <div class="markdown">
+            {{ (.Site.GetPage "page" "board").Content }}
+        </div>
+
+    </div><!-- End CUSTOM container -->
+
+	<div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
+</div><!-- End CUSTOM section -->
+
+<div class="container"><hr></div>
+{{ end }} <!-- END CUSTOM PAGE -->
 
 <!-- Let's chat, shall we? -->
 {{ if (.Site.GetPage "page" "contact") }}

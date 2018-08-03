@@ -24,6 +24,11 @@
         <a href="{{ "/blog" | relURL }}">Updates</a>
       </span>
       {{ end }}
+      {{ if (.Site.GetPage "page" "board") }}
+      <span class="nav-item">
+        <a href="{{ "/board" | relURL }}">Board</a>
+      </span>
+      {{ end }}
       {{ if (.Site.GetPage "page" "contact") }}
       <span class="nav-item">
         <a href="{{ "/contact" | relURL }}">Contact</a>
