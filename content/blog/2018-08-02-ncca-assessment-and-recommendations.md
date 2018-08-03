@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-In April 2018, Ms. Lulu J. del Mar, member of the National Committee on Archives of the NCCA, travelled to San Jose to conduct an assessment and evaluate the condition of the ecclesiastical books of records. The full assessment can be found [here](/static/doc/ncca-report.pdf).
+In April 2018, Ms. Lulu J. del Mar, member of the National Committee on Archives of the NCCA, travelled to San Jose to conduct an assessment and evaluate the condition of the ecclesiastical books of records. The full assessment can be found [here](/doc/ncca-report.pdf).
  
 Ms. Del Mar found the following:
  
