@@ -11,7 +11,7 @@ Rev. Father Nelson Endaya, OSJ
 Provincial Superior  
 Oblates of St. Joseph
 
-*Member*  
+*Curatorial Adviser*  
 Ms. Cecille Torrevillas-Gelicame  
 Director, Museo De La Salle  
 De La Salle University - Dasmarinas
