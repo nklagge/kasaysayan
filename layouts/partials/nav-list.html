@@ -19,9 +19,9 @@
         <a href="{{ "/projects" | relURL }}">Gallery</a>
       </span>
       {{ end }}
-      {{ if and (.Site.Params.showBlog)  (ne .Page.Section "blog")  }}
+      {{ if (.Site.GetPage "page" "board") }}
       <span class="nav-item">
-        <a href="{{ "/blog" | relURL }}">Updates</a>
+        <a href="{{ "/board" | relURL }}">Board</a>
       </span>
       {{ end }}
       {{ if (.Site.GetPage "page" "support") }}
@@ -29,9 +29,9 @@
         <a href="{{ "/support" | relURL }}">Support</a>
       </span>
       {{ end }}
-      {{ if (.Site.GetPage "page" "board") }}
+      {{ if and (.Site.Params.showBlog)  (ne .Page.Section "blog")  }}
       <span class="nav-item">
-        <a href="{{ "/board" | relURL }}">Board</a>
+        <a href="{{ "/blog" | relURL }}">Updates</a>
       </span>
       {{ end }}
       {{ if (.Site.GetPage "page" "contact") }}
@@ -39,11 +39,13 @@
         <a href="{{ "/contact" | relURL }}">Contact</a>
       </span>
       {{ end }}
+      <!--
     {{ if .Site.RSSLink }}
       <span class="nav-item">
         <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
       </span>
     {{ end }}
+    -->
     </div>
 </nav>
 <hr>

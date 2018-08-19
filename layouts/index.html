@@ -38,19 +38,19 @@
         {{ if .Site.Params.showProjects }}
         <a class="nav-item" href="#projects">Gallery</a>
         {{ end }}
-        {{ if .Site.Params.showBlog }}
-        <a class="nav-item" href="#updates">Updates</a>
-        {{ end }}
-        <!-- CUSTOM SINGLE PAGE -->
-        {{ if (.Site.GetPage "page" "support") }}
-        <a class="nav-item" href="#support">Support</a>
-        {{ end }}
-        <!-- END CUSTOM SINGLE PAGE -->
         <!-- CUSTOM SINGLE PAGE -->
         {{ if (.Site.GetPage "page" "board") }}
         <a class="nav-item" href="#board">Board</a>
         {{ end }}
         <!-- END CUSTOM SINGLE PAGE -->
+        <!-- CUSTOM SINGLE PAGE -->
+        {{ if (.Site.GetPage "page" "support") }}
+        <a class="nav-item" href="#support">Support</a>
+        {{ end }}
+        <!-- END CUSTOM SINGLE PAGE -->
+        {{ if .Site.Params.showBlog }}
+        <a class="nav-item" href="#updates">Updates</a>
+        {{ end }}
         {{ if (.Site.GetPage "page" "contact") }}
         <a class="nav-item" href="#contact">Contact</a>
         {{ end }}
@@ -100,33 +100,6 @@
     <div class="container"><hr></div>
     {{ end }}
 
-
-<!-- Let's show some blog posts -->
-    {{ if .Site.Params.showBlog }}
-    <div class="section" id="updates">
-        {{ partial "blogsection.html" . }}
-    </div><!-- End Blog section -->
-
-    <div class="container"><hr></div>
-    {{ end }}
-
-<!-- CUSTOM PAGE -->
-{{ if (.Site.GetPage "page" "support") }}
-<div class="section" id="support">
-    <div class="container has-text-centered">
-    <h2 class="title is-2">Support the Project</h2>
-        <div class="markdown">
-            {{ (.Site.GetPage "page" "support").Content }}
-        </div>
-
-    </div><!-- End CUSTOM container -->
-
-	<div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
-</div><!-- End CUSTOM section -->
-
-<div class="container"><hr></div>
-{{ end }} <!-- END CUSTOM PAGE -->
-
 <!-- CUSTOM PAGE -->
 {{ if (.Site.GetPage "page" "board") }}
 <div class="section" id="board">
@@ -143,6 +116,33 @@
 
 <div class="container"><hr></div>
 {{ end }} <!-- END CUSTOM PAGE -->
+
+<!-- CUSTOM PAGE -->
+{{ if (.Site.GetPage "page" "support") }}
+<div class="section" id="support">
+    <div class="container">
+    <h2 class="title is-2 has-text-centered">Support the Project</h2>
+        <div class="markdown">
+            {{ (.Site.GetPage "page" "support").Content }}
+        </div>
+
+    </div><!-- End CUSTOM container -->
+
+	<div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
+</div><!-- End CUSTOM section -->
+
+<div class="container"><hr></div>
+{{ end }} <!-- END CUSTOM PAGE -->
+
+<!-- Let's show some blog posts -->
+    {{ if .Site.Params.showBlog }}
+    <div class="section" id="updates">
+        {{ partial "blogsection.html" . }}
+    </div><!-- End Blog section -->
+
+    <div class="container"><hr></div>
+    {{ end }}
+
 
 <!-- Let's chat, shall we? -->
 {{ if (.Site.GetPage "page" "contact") }}

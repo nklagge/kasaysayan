@@ -17,10 +17,20 @@
       {{ if .Site.Params.showProjects }}
       <span class="nav-item">
         {{ if ne .Section "projects" }}
-        <a href="{{ "/projects" | relURL }}">Projects</a>
+        <a href="{{ "/projects" | relURL }}">Gallery</a>
         {{ else }}
-        <a href="{{ "/projects" | relURL }}">Back to Projects</a>
+        <a href="{{ "/projects" | relURL }}">Back to Gallery</a>
         {{ end }}
+      </span>
+      {{ end }}
+      {{ if (.Site.GetPage "page" "board") }}
+      <span class="nav-item">
+        <a href="{{ "/board" | relURL }}">Board</a>
+      </span>
+      {{ end }}
+      {{ if (.Site.GetPage "page" "support") }}
+      <span class="nav-item">
+        <a href="{{ "/support" | relURL }}">Support</a>
       </span>
       {{ end }}
       {{ if .Site.Params.showBlog }}
@@ -32,26 +42,18 @@
         {{ end }}
       </span>
       {{ end }}
-      {{ if (.Site.GetPage "page" "support") }}
-      <span class="nav-item">
-        <a href="{{ "/support" | relURL }}">Support</a>
-      </span>
-      {{ end }}
-      {{ if (.Site.GetPage "page" "board") }}
-      <span class="nav-item">
-        <a href="{{ "/board" | relURL }}">Board</a>
-      </span>
-      {{ end }}
       {{ if (.Site.GetPage "page" "contact") }}
       <span class="nav-item">
         <a href="{{ "/contact" | relURL }}">Contact</a>
       </span>
       {{ end }}
+      <!--
     {{ if .Site.RSSLink }}
       <span class="nav-item">
         <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
       </span>
     {{ end }}
+    -->
     </div>
 </nav>
 <hr>
