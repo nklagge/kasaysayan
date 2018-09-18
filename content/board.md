@@ -11,11 +11,11 @@ Rev. Father Nelson Endaya, OSJ
 Provincial Superior  
 Oblates of St. Joseph
 
-*Member*
-Rev. Father Harold Ll. Rentoria, OSA
-Commissioner for Cultural Heritage
-Head, National Committee on Archives
-National Commission for Culture and the Arts
+*Member*  
+Rev. Father Harold Ll. Rentoria, OSA  
+Commissioner for Cultural Heritage  
+Head, National Committee on Archives  
+National Commission for Culture and the Arts  
 
 *Member*  
 Ms. Cecille Torrevillas-Gelicame  
