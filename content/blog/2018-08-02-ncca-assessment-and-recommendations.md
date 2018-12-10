@@ -23,7 +23,7 @@ The subject matter expert from the NCCA recommends the following:
 - Give immediate and special intervention to books from the latter part of the 1800s. In particular: 
   - Restore books with cracked / torn pages and ink corrosion;
   - Fabricate enclosures (i.e., archival boxes or non-acidic customized boxes) for these books in order to contain loose parts.
-- Digitize 18th and 19th century books that are still in good condition. Create photocopy replicas of each volume to serve as access copies in order to preserve the originals from mishandling,
+- Digitize 18th and 19th century books that are still in good condition. Create photocopy replicas of each volume to serve as access copies in order to preserve the originals from mishandling, *(N.B. - Inasmuch as the Mormons have already digitized the ecclesiastical books and are making those available online in their Family History Centers around the world, we have removed this item from the project scope.)*
 - Replace wood cabinets with steel shelves for book storage, as wood is acidic.
 - Buffer, or use non-acidic papers to interleave between pages, to reduce/extract acid from manuscripts. However, care must be taken not to make the volumes too thick as the same may cause some damage (e.g., warping). 
 - Train staff who will be tasked with the preservation of the materials.

@@ -3,9 +3,9 @@ title: "Support the Project"
 date: 2017-03-09T13:23:28+08:00
 ---
 
-Implementing the recommendations of the NCCA to preserve the ecclesiastical records (baptismal, marriage, and burial) which date back to 1767 held at the archives of St. Joseph, the Patriarch Parish in San Jose, Batangas will require substantial financial resources that the parish is not in a position to provide.
+Implementing the recommendations of the NCCA to physically preserve the ecclesiastical records (baptismal, marriage, and burial) which date back to 1767 held at the archives of St. Joseph, the Patriarch Parish in San Jose, Batangas will require substantial financial resources that the parish is not in a position to provide.
  
-The **Kasaysayan ng San Jose** project was conceived to provide essential funding to the preservation effort. Your donation will allow the Church of San Jose to preserve these archival books for future generations and make them available to researchers around the world through digitization. The trove of information hidden in these ecclesiastical records would be invaluable to demographers and other social scientists.
+The **Kasaysayan ng San Jose** project was conceived to provide essential funding to the preservation effort. Your donation will allow the Church of San Jose to physically preserve these archival books for posterity. Inasmuch as the LDS have already digitized the San Jose ecclesiastical records, we have removed such from the scope of this project. We will instead aim to install a few computers with wi-fi capability onsite, and, in partnership with the LDS, make the records available online to local researchers. 
  
 Helping preserve this irreplaceable piece of Philippine history is an excellent way to give back to the community, especially for those whose forebears are from San Jose; to fulfill corporate social responsibility; to honor the memory of a loved one, or to mark a family event.
 

@@ -9,8 +9,16 @@ The baptism, marriage, and burial records date back to the parish's founding in 
 
 In our desire to preserve these records, we requested the assistance of the Philippine National Commission on Culture and the Arts (NCCA) in early 2018. In April 2018, an expert from the NCCA conducted a physical assessment of the San Jose archival records and subsequently issued a Technical Report describing the condition of the books and recommending specific courses of action. [Read more about the NCCA report here.](/blog/ncca-assessment-and-recommendations/)
 
-**Kasaysayan ng San Jose** is looking to bring together funding and conservation expertise, and adopt the recommendations of the NCCA to preserve this unique and irreplaceable piece of Filipino history. Our objectives are to:
+We learned in December 2018 that the Church of Jesus Christ of Latter-Day Saints (Mormons or LDS) filmed/microfiched the San Jose ecclesiastical records in the mid-1970s when the late Rev. Father Lucio Aguilar, OSJ was parish priest. The LDS have since digitized these archival records and they are now available online at LDS Family History Centers, of which there are over 4,500 globally, including several in the Philippines. Thus, we have excluded digitization from the scope of the Kasaysayan project.
+
+**Kasaysayan ng San Jose** is looking to bring together funding and conservation expertise, and adopt the recommendations of the NCCA to physically preserve this unique and irreplaceable piece of Filipino history. Our objectives are to:
 
 - Secure conservation treatment for eight volumes in need of immediate attention;
 - Fund a modern on-site storage system that would protect the volumes from further degradation and from risks such as fire and moisture; and
-- Digitize the records so they can be made more readily and widely available for research on a global basis.
+- Install a few computers with wi-fi capability onsite and, in partnership with the LDS, make the records available online to local researchers. 
+
+### Further Reading
+
+- [San Jose: Parish, Town & People by Juan A. Ona](/doc/sjptp.pdf)
+- [San Jose: A Study in Historical Demography by Marlou O. Castillo](/doc/sjbats.pdf)
+- [The 1886 Padron General de Almas by Juan A. Ona](/img/padron.png)

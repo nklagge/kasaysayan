@@ -11,6 +11,11 @@ Rev. Father Nelson Endaya, OSJ
 Provincial Superior  
 Oblates of St. Joseph
 
+*Member*
+Ms. Ester Cadano
+President, Parish Pastoral Council
+St. Joseph, the Patriarch, Parish
+
 *Member*  
 Rev. Father Harold Ll. Rentoria, OSA  
 Commissioner for Cultural Heritage  
