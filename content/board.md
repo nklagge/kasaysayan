@@ -17,6 +17,10 @@ President, Parish Pastoral Council
 St. Joseph, the Patriarch, Parish  
 
 *Member*  
+Dr. Elise Castillo  
+New York, USA  
+
+*Member*  
 Rev. Father Harold Ll. Rentoria, OSA  
 Commissioner for Cultural Heritage  
 Head, National Committee on Archives  
