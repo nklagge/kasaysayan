@@ -18,8 +18,8 @@ St. Joseph, the Patriarch, Parish
 
 *Member*  
 Dr. Elise Castillo  
-Professor / Ann Plato Diversity Fellow
-Trinity College
+Professor / Ann Plato Diversity Fellow  
+Trinity College  
 Hartford, Connecticut
 
 *Member*  
