@@ -7,7 +7,7 @@ Most Reverend Gilbert Garcera, D.D.
 Archbishop of Lipa
 
 *Vice Chair*  
-Rev. Father Nelson Endaya, OSJ  
+Rev. Father Jason Endaya, OSJ  
 Provincial Superior  
 Oblates of St. Joseph
 
@@ -18,7 +18,9 @@ St. Joseph, the Patriarch, Parish
 
 *Member*  
 Dr. Elise Castillo  
-New York, USA  
+Professor / Ann Plato Diversity Fellow
+Trinity College
+Hartford, Connecticut
 
 *Member*  
 Rev. Father Harold Ll. Rentoria, OSA  

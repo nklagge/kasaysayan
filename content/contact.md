@@ -4,7 +4,8 @@ date: 2017-03-09T13:23:28+08:00
 ---
 
 *Kasaysayan Project Chairman*  
-Rev. Father Norman Banzuela, OSJ  
+Rev. Father Edwin Tolentino, OSJ  
+Vicar Provincial and  
 Parish Priest, Church of St. Joseph, the Patriarch  
 
 *Kasaysayan Project Executive Director*  
